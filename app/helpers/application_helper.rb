@@ -8,3 +8,9 @@ module ApplicationHelper
         link_to(name, '#', class: "add_fields_new", data: {id: id, fields: fields.gsub("\n", "")})
     end
 end
+ 
+
+ 
+
+
+
